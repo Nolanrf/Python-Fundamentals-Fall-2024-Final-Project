@@ -1,7 +1,7 @@
 # Python-Fundamentals-Fall-2024-Final-Project
 Final Project Repository for TEDA 1031 Fall 2024 at Mountainland Technical College
 
-Below is the URL to the dataset I have chosen, 'U.S. Chronic Disease Indicators (CDI)'. 
-https://catalog.data.gov/dataset/u-s-chronic-disease-indicators-cdi
+Below is the URL to the dataset I have chosen, 'ALL FRUITS – Average prices (CSV format)'.
+https://www.ers.usda.gov/data-products/fruit-and-vegetable-prices.aspx
 
-The U.S. Chronic Disease Indicators (CDI) dataset interests me because it offers comprehensive data on health conditions and risk factors across various populations, directly tying to my interest in studying the impact of societal stressors. By analyzing this dataset, I aim to uncover correlations between chronic diseases and socio-economic factors, such as poverty or limited healthcare access, to identify disparities in health outcomes. My goal is to use these findings to advocate for and bring attention to targeted interventions and policies that mitigate the health impacts of chronic stress and trauma. 
+The Fruit-Prices-2022.csv dataset interests me because it provides insights into the pricing of fruits and vegetables, which can reveal patterns related to economic accessibility, seasonality, and regional variations in food costs. I aim to explore how fruit prices differ across locations, the relationship between price trends and economic factors, and the affordability of nutritious options for low-income populations. This analysis aligns with my broader interest in public health and socio-economic disparities, as it could uncover barriers to healthy eating and suggest interventions to improve food accessibility. I hope to identify actionable insights that promote healthier dietary habits and equitable access to fresh produce.
